@@ -34,7 +34,7 @@ A Techwikia é uma **organização open source e colaborativa** dedicada a:
 ##  Comunidade
 
 - 💬 <a target="_blank" href="https://discord.gg/8JJG9tQXfA"> Discord da Techwikia </a>  – Participe das discussões e tire dúvidas com a comunidade.
-- 📢 [Blog da Techwikia](https://techwikia.dev/blog) – Artigos publicados pela comunidade.
+- 📢 [Site da Techwikia](https://techwikia.dev/Site) – Artigos publicados pela comunidade.
 - 🗓️ Eventos, meetups e lives – Em breve!
 
 ## 📜 Código de Conduta
