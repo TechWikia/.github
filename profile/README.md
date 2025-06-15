@@ -26,10 +26,10 @@ A Techwikia é uma **organização open source e colaborativa** dedicada a:
 
 ##  Repositórios Principais
 
-- [`techwikia/wiki`](https://github.com/techwikia/wiki) – Central de conhecimento colaborativo (Markdown).
-- [`techwikia/guia-dev`](https://github.com/techwikia/guia-dev) – Guia prático para iniciantes e desenvolvedores em transição de carreira.
-- [`techwikia/projetos`](https://github.com/techwikia/projetos) – Projetos comunitários de estudo e prática.
-- [`techwikia/site`](https://github.com/techwikia/site) – Repositório do site oficial da comunidade.
+- [`techwikia/TechWikia`](https://github.com/techwikia/TechWikia) – Repositório do site oficial da comunidade.
+- [`techwikia/API-TechWikia`](https://github.com/techwikia/API-TechWikia) – API oficial da TechWikia
+- [`techwikia/Docs`](https://github.com/techwikia/Docs) – Documentos oficiais da TechWikia
+
 
 ##  Comunidade
 
